@@ -1,8 +1,6 @@
 # Team Profile Generator
 
-[![Website generated via CLI](http://img.youtube.com/vi/soKo5LzN12w/0.jpg)](http://www.youtube.com/watch?v=soKo5LzN12w "Team Profile Generator")
-
-[Walk-through link](https://youtu.be/soKo5LzN12w)
+[Walk-through link](https://youtu.be/aJaK-7H6d9U)
 
 ## Your Task
 
